@@ -1,0 +1,534 @@
+{
+    "cities": [
+        {
+            "Name": "New York City, NY",
+            "Subreddits": [
+                "nyc",
+                "newyorkcity"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Jersey City, NJ",
+            "Subreddits": [
+                "jerseycity"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Newark, NJ",
+            "Subreddits": [
+                "newark"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Westchester County, NY",
+            "Subreddits": [
+                "westchester"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "New Brunswick, NJ",
+            "Subreddits": [
+                "newbrunswicknj"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Long Island, NY",
+            "Subreddits": [
+                "longisland"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Hoboken, NJ",
+            "Subreddits": [
+                "hoboken"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Staten Island, NY",
+            "Subreddits": [
+                "statenisland"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "The Bronx, NY",
+            "Subreddits": [
+                "bronx"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Brooklyn, NY",
+            "Subreddits": [
+                "brooklyn"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Queens, NY",
+            "Subreddits": [
+                "queens",
+                "astoria"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Los Angeles, CA",
+            "Subreddits": [
+                "losangeles"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Long Beach, CA",
+            "Subreddits": [
+                "longbeach"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Anaheim, CA",
+            "Subreddits": [
+                "anaheim"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Orange County, CA",
+            "Subreddits": [
+                "orangecounty"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Santa Clarita, CA",
+            "Subreddits": [
+                "santaclarita"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Burbank, CA",
+            "Subreddits": [
+                "burbank"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Lancaster, CA",
+            "Subreddits": [
+                "highvalley"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Huntington Beach, CA",
+            "Subreddits": [
+                "huntingtonbeach"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Pasadena",
+            "Subreddits": [
+                "pasadena"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Santa Monica, CA",
+            "Subreddits": [
+                "santamonica"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Irvine, CA",
+            "Subreddits": [
+                "irvine"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Chicago, IL",
+            "Subreddits": [
+                "chicago"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Aurora, IL",
+            "Subreddits": [
+                "chicagosuburbs"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Naperville, IL",
+            "Subreddits": [
+                "naperville"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Evanston, IL",
+            "Subreddits": [
+                ""
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Miami, FL",
+            "Subreddits": [
+                "miami"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Fort Lauderdale, FL",
+            "Subreddits": [
+                "fortlauderdale"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "West Palm Beach, FL",
+            "Subreddits": [
+                "westpalmbeach"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Boca Raton, FL",
+            "Subreddits": [
+                "bocaraton"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Broward County, FL",
+            "Subreddits": [
+                "broward"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Houston, TX",
+            "Subreddits": [
+                "houston"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "The Woodlands, TX",
+            "Subreddits": [
+                "thewoodlands"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Pearland, TX",
+            "Subreddits": [
+                "pearland"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Conroe, TX",
+            "Subreddits": [
+                "conroe"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Galveston, TX",
+            "Subreddits": [
+                "galveston"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Dallas, TX",
+            "Subreddits": [
+                "dallas"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Fort Worth, TX",
+            "Subreddits": [
+                "fortworth"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Arlington, TX",
+            "Subreddits": [
+                "arlington"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Plano, TX",
+            "Subreddits": [
+                "plano"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Garland, TX",
+            "Subreddits": [
+                "garland"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Frisco, TX",
+            "Subreddits": [
+                "frisco"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "McKinney, TX",
+            "Subreddits": [
+                "mckinney"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Denton, TX",
+            "Subreddits": [
+                "denton"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Carrollton, TX",
+            "Subreddits": [
+                "carrolltontx"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Richardson, TX",
+            "Subreddits": [
+                "richardson"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Allen, TX",
+            "Subreddits": [
+                "allen"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Philadelphia, PA",
+            "Subreddits": [
+                "philadelphia"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Wilmington, DE",
+            "Subreddits": [
+                "wilmingtonde"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Delaware County, PA",
+            "Subreddits": [
+                "delco"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "West Chester, PA",
+            "Subreddits": [
+                "wesatchesterpa"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Bucks County, PA",
+            "Subreddits": [
+                "buckscountypa"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Washington, DC",
+            "Subreddits": [
+                "washingtondc"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Northern Virginia",
+            "Subreddits": [
+                "nova"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Frederick, MD",
+            "Subreddits": [
+                "frederickmd"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Montgomery County, MD",
+            "Subreddits": [
+                "montgomerycountymd"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Bethesda, MD",
+            "Subreddits": [
+                "bethesda"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Rockville, MD",
+            "Subreddits": [
+                "rockville"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Atlanta, GA",
+            "Subreddits": [
+                "atlanta"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Alpharetta, GA",
+            "Subreddits": [
+                "alpharetta"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Decatur, GA",
+            "Subreddits": [
+                "decaturga"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Gwinnett County, GA",
+            "Subreddits": [
+                "gwinnett"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Kennesaw, GA",
+            "Subreddits": [
+                "kennesaw"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Marietta, GA",
+            "Subreddits": [
+                "marietta"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Newnan, GA",
+            "Subreddits": [
+                "newnan"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        },
+        {
+            "Name": "Roswell, GA",
+            "Subreddits": [
+                "roswell"
+            ],
+            "Subscribers": 0,
+            "Population": 1
+        }
+    ]
+}
